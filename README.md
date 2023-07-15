@@ -9,7 +9,7 @@
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=prussian&preferLogin=false">
     <img  alt="KayoLeanndro's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/KayoLeanndro?cardType=github&theme=prussian&preferLogin=false" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLeanndro&layout=compact&hide_border=true&title_color=0175C2&text_color=FFFF&bg_color=0d1117"/>
+    <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLeanndro&layout=compact&hide_border=false&title_color=0175C2&text_color=FFFF&bg_color=0d1117"/>
   </a> 
 
 
