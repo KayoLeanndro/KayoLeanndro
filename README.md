@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 <div align="center">  
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=prussian&preferLogin=false">
-    <img  alt="KayoLeanndro's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/KayoLeanndro?cardType=github&theme=prussian&preferLogin=false" />
+
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KayoLeanndro?cardType=level-alternate&theme=monokai&preferLogin=true&Background=000000)](https://git.io/awesome-stats-card)
     <img width="55%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLeanndro&layout=compact&hide_border=false&title_color=FFFFFF&text_color=FFFF&bg_color=0d1117"/>
-  </a> 
+  
 
 
  
