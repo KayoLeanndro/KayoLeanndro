@@ -1,56 +1,56 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
-<div align="center">  
 
+ <div align="center">
+👋 HI DEVS and RH! My name is Kayo!
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KayoLeanndro?cardType=level-alternate&theme=monokai&preferLogin=true&Background=000000)](https://git.io/awesome-stats-card)
-    <img width="55%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLeanndro&layout=compact&hide_border=false&title_color=FFFFFF&text_color=FFFF&bg_color=0d1117"/>
-  
+🎓 Student of Systems Analysis and Development in the 4th semester.
 
+📍 From Recife, Pernambuco, Brazil.
 
- 
-<div align="center"> 
-  <br><br>
-<a href="https://www.instagram.com/oikayo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-    <a href = "mailto:kayoleanndro2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-<a href="https://www.linkedin.com/in/kayo-leanndro-33618a228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
-## Front end Skills:
-<div style="display: flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin-right: 20px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin-right: 20px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin-right: 20px"/>
+💻 Software resident at Porto Digital, focused on backend and other IT areas.
 
-</div>
-          
-### Back end Skills: 
-<div style="display: flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" style="margin-right: 20px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" style="margin-right: 20px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin-right: 20px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin-right: 20px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" style="margin-right: 20px"/>
+📚 Passionate about technology and self-taught, always seeking knowledge to enhance my skills.
+
+🚀 Technology make artistc things!
 </div>
 
-### Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" style="margin-right: 20px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" style="margin-right: 20px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right: 20px"/>
-
-  
-### Studying in this moment:
-
- 
-     
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Klassz}/count.svg" /></p> 
+<a href="https://github.com/KayoLeanndro">
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=KayoLeanndro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLeanndro&layout=compact&langs_count=20&theme=tokyonight"/>
+</div>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/kayo-leanndro-33618a228/">
+<img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/kayo.leanndro/">
+<img align="center" alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</div>
 <br>
+<br>
+<br>
+
+<div align="center">
+  
+![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python)
+![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java)
+![C#](https://img.shields.io/badge/-Csharp-993399?style=flat&logoColor=white&logo=Csharp)
+![C#](https://img.shields.io/badge/-dotnet-993399?style=flat&logoColor=white&logo=dotnet)
+<div/>
+
+
+
+
+  
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+
+
