@@ -10,7 +10,7 @@
 
 📚 Passionate about technology and self-taught, always seeking knowledge to enhance my skills.
 
-🚀 Technology make artistc things!
+🚀 Technology make artistic things!
 </div>
 
 
