@@ -1,56 +1,34 @@
+👋 Olá DEVS e RH! Meu nome é Kayo!
 
- <div align="center">
-👋 HI DEVS and RH! My name is Kayo!
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no 4º semestre.
 
-🎓 Student of Systems Analysis and Development in the 4th semester.
+📍 De Recife/PE.
 
-📍 From Recife, Pernambuco, Brazil.
+💻 Residente em Software no Porto Digital, focado em backend e outras áreas de TI.
 
-💻 Software resident at Porto Digital, focused on backend and other IT areas.
+📚 Apaixonado por tecnologia e autodidata, sempre buscando conhecimento para aprimorar minhas habilidades.
 
-📚 Passionate about technology and self-taught, always seeking knowledge to enhance my skills.
+🚀 A tecnologia faz arte!
 
-🚀 Technology make artistic things!
-</div>
-
-
-
-<div align="center">
 <a href="https://github.com/KayoLeanndro">
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=KayoLeanndro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLeanndro&layout=compact&langs_count=20&theme=tokyonight"/>
-</div>
+</a>
 
-<div align="center">
+<br>
+
 <a href="https://www.linkedin.com/in/kayo-leanndro-33618a228/">
-<img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://www.instagram.com/kayo.leanndro/">
-<img align="center" alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</div>
-<br>
-<br>
-<br>
-
-<div align="center">
-  
-![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python)
-![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java)
-![C#](https://img.shields.io/badge/-Csharp-993399?style=flat&logoColor=white&logo=Csharp)
-![C#](https://img.shields.io/badge/-dotnet-993399?style=flat&logoColor=white&logo=dotnet)
-<div/>
 
 
 
-
-  
-</div>
-
-
-
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
