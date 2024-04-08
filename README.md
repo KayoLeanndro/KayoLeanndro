@@ -1,8 +1,8 @@
-👋 Olá DEVS e RH! Meu nome é Kayo!
+👋 Meu nome é Kayo!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no 4º semestre.
 
-📍 De Recife/PE.
+📍 Recife/PE.
 
 💻 Residente em Software no Porto Digital, focado em backend e outras áreas de TI.
 
