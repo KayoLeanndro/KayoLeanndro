@@ -1,10 +1,10 @@
 👋 Meu nome é Kayo!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no 4º semestre.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no 5º semestre.
 
 📍 Recife/PE.
 
-💻 Residente em Software no Porto Digital, focado em backend e outras áreas de TI.
+💻 Atualmente sou desenvolvedor de software na empresa Grupo RAS, focado em backend.
 
 📚 Apaixonado por tecnologia e autodidata, sempre buscando conhecimento para aprimorar minhas habilidades.
 
