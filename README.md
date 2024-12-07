@@ -1,18 +1,14 @@
 👋 Meu nome é Kayo!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no 5º semestre.
-
 📍 Recife/PE.
 
-💻 Atualmente sou desenvolvedor de software na empresa Grupo RAS, focado em backend.
-
-📚 Apaixonado por tecnologia e autodidata, sempre buscando conhecimento para aprimorar minhas habilidades.
+💻 Desenvolvedor de software at Grupo RAS 🧡💙
 
 🚀 A tecnologia faz arte!
 
 <a href="https://github.com/KayoLeanndro">
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=KayoLeanndro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLeanndro&layout=compact&langs_count=20&theme=tokyonight"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=KayoLeanndro&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayoLeanndro&layout=compact&langs_count=20&theme=vision-friendly-dark"/>
 </a>
 
 <br>
