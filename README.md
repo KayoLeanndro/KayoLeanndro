@@ -87,7 +87,10 @@
 ## 📂 **Projetos em Destaque**
 
 - 🚀 [**Reclame-la-backend**](https://github.com/KayoLeanndro/Reclame-la-backend): Plataforma de feedback para estudantes e instituições. 
-- 🔧 [**Session-Votes**](https://github.com/KayoLeanndro/Session-Votes): Sistema de votação online.
+- 🔧 [**Encurta-Url**](https://github.com/KayoLeanndro/Encurta-Url): Encurtador de URL online.
+- 💬 [**SmsToMe**](https://github.com/KayoLeanndro/https://github.com/KayoLeanndro/SmsToMe): Projeto feito com a API da twilio para SMS
+- 
+- 
 
 ---
 
