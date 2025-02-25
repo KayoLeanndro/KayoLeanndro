@@ -97,7 +97,7 @@
 
 <div align="center">
 
-🌟 **"Apenas começe e termine o que começou!"** 🌟  
+🌟 **"Apenas termine o que começou!"** 🌟  
 
 </div>
 
